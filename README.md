@@ -41,7 +41,7 @@ later visualization.**
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Robot-Process-Automation/wiki/raw/images/1c2fab97c267e2876561ec75331e7563def1ef4f.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Robot-Process-Automation/images/1c2fab97c267e2876561ec75331e7563def1ef4f.png">
 </p>
 
 <br/>
@@ -53,7 +53,7 @@ later visualization.**
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Robot-Process-Automation/wiki/raw/images/23c0bcd40bd3680a3e17ad9602f1672713bbfdca.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Robot-Process-Automation/images/23c0bcd40bd3680a3e17ad9602f1672713bbfdca.png">
 </p>
 
 <br/>
@@ -65,7 +65,7 @@ later visualization.**
 <br/>
 
 <p align="Center">
-  <img src="/osama.tasneem/Robot-Process-Automation/wiki/raw/images/f8c63ddeca4345bbae3914e19b39ce7e7bb2f4ce.png">
+  <img src="https://raw.githubusercontent.com/wiki/CuriousLad1000/Robot-Process-Automation/images/f8c63ddeca4345bbae3914e19b39ce7e7bb2f4ce.png">
 </p>
 
 <br/>
